@@ -1,0 +1,37 @@
+{
+	"name": "Jiffy Quiz Ramadhan",
+	"short_name": "Jiffy Quiz Ramadhan",
+	"description": "Ramadhan Quiz Pertamina",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "16x6",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x12",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-114.png",
+			"sizes": "114x41",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "128x47",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x93",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
